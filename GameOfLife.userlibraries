@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Jython 2.5.2 (~/Documents/Tech/jython2.5.2/bin/jython) interpreter library">
+    <archive path="/Users/rameshl/Documents/Tech/jython2.5.2/Lib" />
+    <archive path="/Users/rameshl/Documents/Tech/jython2.5.2/Lib/site-packages" />
+    <archive path="/Users/rameshl/Library/Caches/IntelliJIdea10/python_stubs/-1104763605" />
+  </library>
+</eclipse-userlibraries>
+
